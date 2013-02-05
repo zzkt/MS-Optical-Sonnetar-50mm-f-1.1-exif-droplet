@@ -14,10 +14,16 @@ Requirements
 ExifTool by Phil Harvey http://www.sno.phy.queensu.ca/~phil/exiftool/
 
 
+Install
+-------
+
+Download from here
+     https://github.com/zzkt/MS-Optical-Sonnetar-50mm-f-1.1-exif-droplet/blob/master/MS%20Optical%20Sonnetar%2050mm%20f:1.1.zip
+
 Description
 -----------
 
-Stand-alone Automator application that sets the lens name, focal length and maximum aperture of your image to Voigtländer Nokton 50mm f/1.1 in the file's EXIF data.
+Stand-alone Automator application that sets the lens name, focal length and maximum aperture of your image to MS-Optical Sonnetar 50mm f/1.1 in the file's EXIF data.
 
 
 How to use 
