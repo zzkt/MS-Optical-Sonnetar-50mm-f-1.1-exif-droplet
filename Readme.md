@@ -18,7 +18,8 @@ Install
 -------
 
 Download from here
-     https://github.com/zzkt/MS-Optical-Sonnetar-50mm-f-1.1-exif-droplet/blob/master/MS%20Optical%20Sonnetar%2050mm%20f:1.1.zip
+      
+https://github.com/zzkt/MS-Optical-Sonnetar-50mm-f-1.1-exif-droplet/raw/master/MS%20Optical%20Sonnetar%2050mm%20f:1.1.zip
 
 Description
 -----------
