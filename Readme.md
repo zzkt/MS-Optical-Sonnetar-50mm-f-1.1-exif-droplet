@@ -5,7 +5,7 @@ EXIF Metadata Utility for Exotic Lenses
 
 Author: Nik Gaffney <nik@fo.am>
 
-Based on the Droplet for "MS Super Triplet Perar 35mm f/3.5" by Dirk Rösler
+Based on the Droplet for "MS Super Triplet Perar 35mm f/3.5" by Dirk Rösler (at http://japanexposures.com )
 
 
 Requirements
@@ -41,4 +41,3 @@ Commandline
 -----------
 
     exiftool -P -overwrite_original -FocalLength=50 -MaxApertureValue=1.1 -Lens="MS Optical Sonnetar 50mm f/1.1"
-
